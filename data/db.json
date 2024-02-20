@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "id": "2",
+      "checked": false,
+      "item": "learning coding"
+    },
+    {
+      "id": "3",
+      "checked": true,
+      "item": "learning React.js"
+    },
+    {
+      "id": "41",
+      "checked": false,
+      "item": "watching cricket"
+    }
+  ]
+}
